@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  prompt-builder: ^2.0.0
+
+dependencies:
+  prompt-builder: 2.0.0
+
+packages:
+
+  /prompt-builder/2.0.0:
+    resolution: {integrity: sha512-OrUqnJ6vtIT/TgF3cd+874caSPD5eTcGaOgnlIkkNa/8/feUN66xNHe6eEd7eOzWRXksp9Si1StEY59XMiUz/Q==}
+    dependencies:
+      zod: 3.21.4
+    dev: false
+
+  /zod/3.21.4:
+    resolution: {integrity: sha512-m46AKbrzKVzOzs/DZgVnG5H55N1sv1M8qZU3A8RIKbs3mrACDNeIOeilDymVb2HdmP8uwshOCF4uJ8uM9rCqJw==}
+    dev: false

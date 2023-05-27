@@ -10,6 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
   "dependencies": {
     "prompt-builder": "^2.0.0"
   }
